@@ -1,5 +1,15 @@
 body	{
 	font-family: "Roboto";
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f2f9fe+0,d6f0fd+100;White+3D+%232 */
+	background: #f2f9fe; /* Old browsers */
+	background: -moz-linear-gradient(top, #f2f9fe 0%, #d6f0fd 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #f2f9fe 0%,#d6f0fd 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #f2f9fe 0%,#d6f0fd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background-repeat: no-repeat;
+   	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 
@@ -87,3 +97,4 @@ li:hover span{
 	width: 40px;
 	opacity:1;
 }
+
